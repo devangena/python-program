@@ -1,0 +1,30 @@
+enter your account number:233233
+enter your name:amal
+enter your account type:savings
+enter your account balance:2000
+
+1.DEPOSIT
+2.WITHDRAW
+3.ACCOUNT INFORMATION
+4.EXIT
+enter your choice:2
+enter your withdrawal amount:1500
+your current balance is 500.0
+
+1.DEPOSIT
+2.WITHDRAW
+3.ACCOUNT INFORMATION
+4.EXIT
+enter your choice:3
+accounAt number:233233
+account holder:amal
+account type:savings
+cuurent balance: 500.0
+
+1.DEPOSIT
+2.WITHDRAW
+3.ACCOUNT INFORMATION
+4.EXIT
+enter your choice:4
+
+Process finished with exit code 0
